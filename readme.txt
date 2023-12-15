@@ -2,11 +2,9 @@
 
 DESCRIPTION:
 
-KHRONOS is a creative pack of coming soon template pages. Its elegant and clean design makes it
-perfect for every creative people, corporate, agency or anyone who is currently building their
-site and want to show a coming soon page in a creative way. Khronos is available in three style 
-variations: static, slideshow, and particle background.
-
+MAILLARD is a free restaurant HTML website template that is perfect for any modern restaurant, 
+cafe, or patisserie. It is simple, elegant, and easy to use. It includes all the essential pages 
+you need for a restaurant website, and it is fully responsive and highly customizable.
 
 ==================================================================================================
 
@@ -38,7 +36,7 @@ and not directly to the download zip file.
 Attribution: 
 ------------
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
+You must include a credit link to our website(https://styleshout.com) somewhere on your site. 
 We prefer the footer credit that comes with the template but you are still free to move it 
 somewhere else.
 
@@ -58,12 +56,11 @@ credit removal fee of 10 USD through Paypal. This will allow you to use a single
 template attribution/credit link free on ONE DOMAIN name.
 
 You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
+visit our attribution removal page: https://styleshout.com/attribution-free/ 
 and click the pay button on the page.
 
 If possible, kindly send us the site's url where the template is being used. 
 Also, keep your Paypal receipt as proof of payment and your good to go.
-
 
 
 ------------------------------------------------------------------------------------------------------ 
@@ -71,7 +68,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since KHRONOS is distributed for free, support is not offered. KHRONOS is coded according 
+Since MAILLARD is distributed for free, support is not offered. MAILLARD is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -88,28 +85,14 @@ javascript in your skill-set, you can also check out these tutorials:
 
 
 
+
 -------------------------------------------------------------------------------------------------------
 
 
-USING THE MAILCHIMP FORM:
+GET THE LATEST VERSION:
 
-To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
-your mailchimp account, click the Audience menu and select signup forms. Then choose 
-embedded forms and select unstyled form. In the generated form code get the value of 
-the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
-in the template's "js" folder and look for this line of code: 
-
-const cfg = {
-
-    // Countdown Timer Final Date
-    finalDate : 'March 20, 2024 00:00:00',
-    // MailChimp URL
-    mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
-
-};
-
-
-Replace the value of mailChimpURL with your mailchimp url.
+We update our templates on a regular basis so to make sure that you have the latest version, 
+always download the template files directly on our website(https://styleshout.com/)
 
 
 
@@ -121,18 +104,24 @@ SOURCES AND CREDITS:
 I've used the following resources as listed.
 
 Fonts:
+ - Cormorant Garamond Font (https://fonts.google.com/specimen/Cormorant+Garamond)
+ - Newsreader Font (https://fonts.google.com/specimen/Newsreader)
  - Inter Font (https://fonts.google.com/specimen/Inter)
+ - Cormorant SC Font (https://fonts.google.com/specimen/Cormorant+SC)
 
 Icons:
  - Boxicons (https://boxicons.com/)
+ - Iconmonstr (https://iconmonstr.com/)
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
+ - Pexels.com (https://www.pexels.com/)
  
 Javascript Files:
- - Swiper (https://swiperjs.com/)
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
+ - Swiper JS (https://swiperjs.com/)
+ - GLightbox (https://biati-digital.github.io/glightbox/)
 
 -------------------------------------------------------------------------------------------------------
 
